@@ -1,0 +1,2 @@
+# CMakeBuildTemplate
+cmake build template
